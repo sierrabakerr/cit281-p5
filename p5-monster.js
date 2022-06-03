@@ -1,3 +1,7 @@
+/*
+    CIT 281 Project 5
+    Name: Sierra Baker
+*/
 class Monster {
   constructor({
     monsterName = "Unknown",
