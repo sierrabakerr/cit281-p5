@@ -3,7 +3,6 @@
 
     Name: Sierra Baker
 */
-
 // IMPORTANT: Note no object deconstruction when importing a class
 // from a class module
 const MonsterGame = require("./p5-monster-game.js");
