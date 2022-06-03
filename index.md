@@ -1,37 +1,51 @@
-## Welcome to GitHub Pages
+# Project 5
 
-You can use the [editor on GitHub](https://github.com/sierrabakerr/cit281-p5/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[RETURN TO HOMEPAGE](https://sierrabakerr.github.io/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Learning Objectives:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### After completing this project, you will:
 
-```markdown
-Syntax highlighted code block
+Gain experience working with classes, including class constructors and methods
 
-# Header 1
-## Header 2
-### Header 3
+Gain experience interpreting existing code to design a new class, including constructor and methods
 
-- Bulleted
-- List
+Gain more experience working with code modules
 
-1. Numbered
-2. List
+Gain experience executing and debugging Node.js code using VSCode, including module breakpoints
 
-**Bold** and _Italic_ and `Code` text
+Gain more experience working with Array map() and forEach() methods
 
-[Link](url) and ![Image](src)
-```
+Gain experience working with the concept of a gaming loop
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Gain more experience working with objects and arrays
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sierrabakerr/cit281-p5/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Overview:
 
-### Support or Contact
+### Project elements:
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+For this project, you will create a Monster Game program using classes. The game will create monsters with initial life values, and minimum life values for the monster to be alive. Once the game is running, each monster's life will be drained by a random amount, and the game will continue until all of the monsters have died. The game will include a delay before each life drain.
+
+### Important: 
+The reason for offering extra credit for this project is to encourage you to examine and understand the code, and to "dig" in to determine how the code works. With this understanding, you'll better be able to meet the coding requirements to receive the extra credit.
+
+### Tip: 
+For this project, you are encouraged to set VSCode breakpoints in the module files (e.g. p5-monster.js), even though you'll be starting the execution of the code from p5-js. VSCode will pause on breakpoints in files used by the project.
+
+
+## Project Deliverables:
+
+### 1. p5.js
+[p5.js](p5.js)
+
+### 2. p5-monster-game.js
+[p5-monster-game.js](p5-monster-game.js)
+
+### 3. p5-monster.js
+[p5-monster.js](p5-monster.js)
+
+
+
+
