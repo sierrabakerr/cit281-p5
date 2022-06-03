@@ -37,14 +37,11 @@ For this project, you are encouraged to set VSCode breakpoints in the module fil
 
 ## Project Deliverables:
 
-### 1. p5.js
-[p5.js](p5.js)
+### 1. [p5.js](p5.js)
 
-### 2. p5-monster-game.js
-[p5-monster-game.js](p5-monster-game.js)
+### 2. [p5-monster-game.js](p5-monster-game.js)
 
-### 3. p5-monster.js
-[p5-monster.js](p5-monster.js)
+### 3. [p5-monster.js](p5-monster.js)
 
 
 
