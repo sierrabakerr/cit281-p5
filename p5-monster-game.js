@@ -1,3 +1,7 @@
+/*
+    CIT 281 Project 5
+    Name: Sierra Baker
+*/
 // Required code modules
 const Monster = require("./p5-monster.js");
 
